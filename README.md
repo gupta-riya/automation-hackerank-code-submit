@@ -10,7 +10,12 @@ This activity is done with two methods - one uses Promises and other uses await 
 
 ### Files Imported
 1. secrets  -> module having your username and password
-2. codes    -> Written code file which is to be submitted at hackerrank site
+2. codes    -> Written code module which is to be submitted at hackerrank site
+
+### Files Desciption
+1. codes.js -> Written code module which is to be submitted at hackerrank site
+2. hk_code_submit_with_await.js -> Code submission using await methods
+3. hk_code_submit_with_promises.js -> Code submission using promises
 
 
 ### Step By Step Activity Explaination - 
